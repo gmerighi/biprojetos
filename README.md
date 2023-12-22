@@ -5,9 +5,12 @@ Analise e Desenvolvimento de Sistemas
 
 ### Experiência Profissional
 Analista de Dados @ Empresa 
-- <iframe title="Portifolio - Atendimentos #1" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=9c6ff2ff-c5d9-484e-8e6a-20decf2265be&autoAuth=true&ctid=80dcce89-3e44-49b9-945c-b3c25acf1d54" frameborder="0" allowFullScreen="true"></iframe>
-- big impact projetct 2!
+- Projeto 1
+- https://app.powerbi.com/view?r=eyJrIjoiZjlhYmNiY2ItNTUyYy00Njc2LTk4ZjEtMDIxZjE2NjVkZDYxIiwidCI6IjgwZGNjZTg5LTNlNDQtNDliOS05NDVjLWIzYzI1YWNmMWQ1NCJ9
+- Projeto 2
+- https://app.powerbi.com/view?r=eyJrIjoiYjVkNmU4YjUtM2ZkZi00ODkyLTgwOTQtMDk4NzcwZmQ5MzY4IiwidCI6IjgwZGNjZTg5LTNlNDQtNDliOS05NDVjLWIzYzI1YWNmMWQ1NCJ9
 
 ### Projetos
-Exemplo 1
-Exemplo 2
+- Projeto 3
+- https://app.powerbi.com/view?r=eyJrIjoiNzczMGRjMjgtMWNjYi00ODdhLWI4NmEtNjRmZmNlMzFmMTE0IiwidCI6IjgwZGNjZTg5LTNlNDQtNDliOS05NDVjLWIzYzI1YWNmMWQ1NCJ9)https://app.powerbi.com/view?r=eyJrIjoiNzczMGRjMjgtMWNjYi00ODdhLWI4NmEtNjRmZmNlMzFmMTE0IiwidCI6IjgwZGNjZTg5LTNlNDQtNDliOS05NDVjLWIzYzI1YWNmMWQ1NCJ9
+
